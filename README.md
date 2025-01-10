@@ -1,4 +1,4 @@
-# MAE 3120, Spring 2024
+# MAE 3120, Spring 2025
 
 To update course material locally, follow these steps:
 
